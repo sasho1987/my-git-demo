@@ -1,3 +1,8 @@
 a is awesome
+<<<<<<< HEAD
 a is ant
 a is avocado
+=======
+a is alpha
+a is avocado
+>>>>>>> dev
